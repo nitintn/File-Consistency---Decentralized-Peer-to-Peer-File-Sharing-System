@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Peers>
+		<PeerName>Peer1</PeerName>
+		<PeerPort>5004</PeerPort>
+		<PeerIP>localhost</PeerIP>
+	</Peers>
+	<Peers>
+		<PeerName>Peer2</PeerName>
+		<PeerPort>5005</PeerPort>
+		<PeerIP>localhost</PeerIP>
+	</Peers>
+	<Peers>
+		<PeerName>Peer3</PeerName>
+		<PeerPort>5006</PeerPort>
+		<PeerIP>localhost</PeerIP>
+	</Peers>
+	<Peers>
+		<PeerName>Peer4</PeerName>
+		<PeerPort>5008</PeerPort>
+		<PeerIP>localhost</PeerIP>
+	</Peers>
+	<Peers>
+		<PeerName>Peer5</PeerName>
+		<PeerPort>5007</PeerPort>
+		<PeerIP>localhost</PeerIP>
+	</Peers>
+	<!-- <Peers>
+		<PeerName>Peer6</PeerName>
+		<PeerPort>5007</PeerPort>
+		<PeerIP>localhost</PeerIP>
+	</Peers>
+	<Peers>
+		<PeerName>Peer7</PeerName>
+		<PeerPort>5011</PeerPort>
+		<PeerIP>localhost</PeerIP>
+	</Peers>
+	<Peers>
+		<PeerName>Peer8</PeerName>
+		<PeerPort>5012</PeerPort>
+		<PeerIP>localhost</PeerIP>
+	</Peers>
+	<Peers>
+		<PeerName>Peer9</PeerName>
+		<PeerPort>5013</PeerPort>
+		<PeerIP>localhost</PeerIP>
+	</Peers>
+	<Peers>
+		<PeerName>Peer10</PeerName>
+		<PeerPort>5014</PeerPort>
+		<PeerIP>localhost</PeerIP>
+	</Peers> -->
+</data-set>
